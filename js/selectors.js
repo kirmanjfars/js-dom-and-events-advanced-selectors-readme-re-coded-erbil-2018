@@ -2,4 +2,6 @@
 
 $('img')
 
-functions  
+functions  paragraphSelector(){
+  
+}
