@@ -22,3 +22,7 @@ function divSelector(){
   let pic = $(".pics")
   return pic;
 }
+
+function firstListItem(){
+  let f=$("")
+}
