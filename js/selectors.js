@@ -11,3 +11,7 @@ function  paragraphSelector(){
 function lastImageSelector(){
   let img = $("img:last-child")
 }
+
+function ninjaBabySelector(){
+  
+}
