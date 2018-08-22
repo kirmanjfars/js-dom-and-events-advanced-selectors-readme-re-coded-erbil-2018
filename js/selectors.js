@@ -3,5 +3,5 @@
 
 
 function  paragraphSelector(){
-  let  p = $('p');
+  return $('p');
 }
