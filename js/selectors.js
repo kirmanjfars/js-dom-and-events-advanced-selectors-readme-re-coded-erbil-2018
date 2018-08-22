@@ -10,6 +10,7 @@ function  paragraphSelector(){
 
 function lastImageSelector(){
   let img = $("img:last-child")
+  return img;
 }
 
 function ninjaBabySelector(){
