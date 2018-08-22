@@ -9,5 +9,5 @@ function  paragraphSelector(){
 
 
 function lastImageSelector(){
-  let img = 
+  let img = img:first-child
 }
