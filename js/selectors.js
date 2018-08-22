@@ -1,3 +1,3 @@
 // declare your functions here...
 
-$(document).get
+$('img')
