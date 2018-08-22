@@ -24,5 +24,6 @@ function divSelector(){
 }
 
 function firstListItem(){
-  let f=$("ul #pic-list")
+  let f=$("ul #pic-list:first-child")
+  return f;
 }
