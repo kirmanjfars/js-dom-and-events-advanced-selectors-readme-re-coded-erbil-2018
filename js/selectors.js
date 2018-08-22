@@ -2,4 +2,4 @@
 
 $('img')
 
-functions 
+functions  
