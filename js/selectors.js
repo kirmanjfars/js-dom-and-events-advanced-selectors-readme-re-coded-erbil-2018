@@ -24,5 +24,5 @@ function divSelector(){
 }
 
 function firstListItem(){
-  let f=$("")
+  let f=$("ul #")
 }
